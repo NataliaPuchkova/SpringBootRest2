@@ -1,4 +1,4 @@
-# SpringBootRest
+# SpringBootRest2
 ## This is a **Gradle** project for **Spring Boot** based web service ##
   
 ## **Build** ##
